@@ -53,15 +53,26 @@ Aplicativo de pedidos e delivery desenvolvido em **React Native (Expo)** como pa
 
 Os prints de cada funcionalidade estão na pasta `/docs` e também são exibidos aqui:
 
- ![Imagem 1](docs/img13.jpeg)
-![Imagem 2](docs/img02.png)
-![Imagem 3](docs/img03.png)
-![Imagem 4](docs/img04.png)
-![Imagem 5](docs/img05.png)
-![Imagem 6](docs/img06.png)
-![Imagem 7](docs/img07.png)
-![Imagem 8](docs/img08.png)
-![Imagem 9](docs/img09.png)
-![Imagem 10](docs/img10.png)
-![Imagem 11](docs/img11.png)
-![Imagem 12](docs/img12.png)
+<p align="center">
+  <img src="./docs/img01.png" width="30%" />
+  <img src="./docs/img02.png" width="30%" />
+  <img src="./docs/img03.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./docs/img04.png" width="30%" />
+  <img src="./docs/img05.png" width="30%" />
+  <img src="./docs/img06.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./docs/img07.png" width="30%" />
+  <img src="./docs/img08.png" width="30%" />
+  <img src="./docs/img09.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./docs/img10.png" width="30%" />
+  <img src="./docs/img11.png" width="30%" />
+  <img src="./docs/img12.png" width="30%" />
+</p>
